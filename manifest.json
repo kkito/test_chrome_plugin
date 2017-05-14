@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "My started",
-  "description": "This extension shows a Google Image search result for the current page",
+  "name": "Read Content",
+  "description": "read content of current html",
   "version": "1.0",
 
   "browser_action": {
